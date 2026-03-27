@@ -25,3 +25,5 @@ To analyze the relationship between trader performance and Bitcoin market sentim
 
 ## 🧠 Conclusion
 Market sentiment plays a key role in trading decisions and profitability.
+## 🔍 Insight Example
+Extreme Fear conditions resulted in average losses (~ -23), while Greed phases showed positive profitability (~ +7 to +8).
